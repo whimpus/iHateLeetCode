@@ -12,7 +12,6 @@ class Solution {
         if(i < 0 || j < 0){
             return 0;
         }
-        cout<<i <<" "<< j<<endl;
         return vec[i][j];
     }
 public:
